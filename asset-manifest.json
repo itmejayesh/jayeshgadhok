@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jayeshgadhok/static/css/main.d708e3b9.css",
+    "main.js": "/jayeshgadhok/static/js/main.2564dbb9.js",
+    "static/media/me.png": "/jayeshgadhok/static/media/me.0bb14fe494bce0ae1ebb.png",
+    "static/media/cv.pdf": "/jayeshgadhok/static/media/cv.492539b9550c799a418d.pdf",
+    "static/media/me-about.jpg": "/jayeshgadhok/static/media/me-about.1a84f827568d83b05443.jpg",
+    "index.html": "/jayeshgadhok/index.html",
+    "main.d708e3b9.css.map": "/jayeshgadhok/static/css/main.d708e3b9.css.map",
+    "main.2564dbb9.js.map": "/jayeshgadhok/static/js/main.2564dbb9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d708e3b9.css",
+    "static/js/main.2564dbb9.js"
+  ]
+}
